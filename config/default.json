@@ -1,0 +1,7 @@
+{
+    "publicRuntimeConfig": {
+        "foo": {
+            "bar": "baz"
+        }
+    }
+}
